@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MI_devops:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MI_devops_jar</output-path>
+    <root id="archive" name="MI_devops.jar">
+      <element id="module-output" name="MI_devops" />
+    </root>
+  </artifact>
+</component>
