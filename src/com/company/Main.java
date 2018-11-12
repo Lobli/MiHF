@@ -372,6 +372,7 @@ public class Main {
 
     public static void main(String[] args) throws Exception {
 
+        System.in.read();
         InputReader reader = new InputReader();
 
         Integer[][] mat = reader.getMatrix();
